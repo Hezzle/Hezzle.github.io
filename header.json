@@ -1,5 +1,5 @@
 {
-"symbol": "(^^)",
+"symbol": "H",
 "mode": "beat-7k",
 "grade": [
     {
@@ -31,6 +31,37 @@
           "761863c63ecfc1a579f87be40632cce1",
           "af07aa8958ee69c4b1ba0876adab86ea",
           "2155b2b54562ed0bbc1871f2a9b2218c"
+        ]
+    },
+    {
+        "name": "GENOCIDE 2018 八點五段",
+        "constraint": [
+          "grade_mirror",
+          "gauge_lr2"
+        ],
+        "trophy": [
+          {
+            "name": "bronzemedal",
+            "missrate": 7.5,
+            "scorerate": 0
+          },
+          {
+            "name": "silvermedal",
+            "missrate": 5,
+            "scorerate": 70
+          },
+          {
+            "name": "goldmedal",
+            "missrate": 2.5,
+            "scorerate": 85
+          }
+        ],
+        "style": "red",
+        "md5": [
+          "a0080f9d28d1a6a97d7f557494720b40",
+          "8e18c4cf8dae6243c752179a20452d76",
+          "c904c416b6e5cc133a84a0f80b38f5c3",
+          "4c5c0544707fa4160526be09af8c7f0a"
         ]
     }
   ],
